@@ -1,0 +1,7 @@
+# Site settings
+title: 一个有态度的程序员
+description: 不会摄影的程序员不是一个好厨师
+keywords: Android, 编程, 摄影
+author: Wferr
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
