@@ -6,19 +6,25 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Wed, 02 Mar 2016 23:41:37 +0800</pubDate>
-        <lastBuildDate>Wed, 02 Mar 2016 23:41:37 +0800</lastBuildDate>
+        <pubDate>Wed, 02 Mar 2016 23:49:46 +0800</pubDate>
+        <lastBuildDate>Wed, 02 Mar 2016 23:49:46 +0800</lastBuildDate>
         <generator>Jekyll v3.1.2</generator>
         
         <item>
             <title>我想和这个世界谈谈</title>
-            <description>&lt;h2 id=&quot;section&quot;&gt;为什么写博客&lt;/h2&gt;
+            <description>&lt;h3 id=&quot;section&quot;&gt;关于博客&lt;/h3&gt;
+&lt;p&gt;这是我第二次新建自己的博客，上一个部署在阿里云上，国内有一大堆的手续，麻烦的要死，就停掉了。又觉得csdn的界面太挫，实在不符合我这个文艺码农的情怀；简书的话又不能自己玩代码，不能满足我这颗geek的心。so，我在git上建了这个博客。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;为什么写博客&lt;/h3&gt;
 &lt;p&gt;写博客的原因主要有这么几点，一是工作上发现总是需要查一些资料，总是google很麻烦，所以需要有一个地方把他整理出来，下次直接来自己的博客查就好了；二是工作几年时间，有一些技术上的经验总结，希望能够记录下来；三是希望通过写博客提高自己的写作水平。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-1&quot;&gt;博客的内容主要有哪些&lt;/h2&gt;
-&lt;p&gt;博客的内容主意是一些技术上的分享，同时也会有自己的一些人生感悟，以及一些股市的分析。&lt;/p&gt;
+&lt;h3 id=&quot;section-2&quot;&gt;博客的内容主要有哪些&lt;/h3&gt;
+&lt;p&gt;博客的内容主要是一些技术上的分享，同时也会有自己的一些人生感悟，以及一些股市的分析。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;博客的更新速度&lt;/h3&gt;
+&lt;p&gt;博客每周一更，不在于速度，贵在坚持。&lt;/p&gt;
 </description>
-            <pubDate>Wed, 02 Mar 2016 23:12:12 +0800</pubDate>
+            <pubDate>Wed, 02 Mar 2016 19:11:11 +0800</pubDate>
             <link>#/2016/03/02/about-blog.html</link>
             <guid isPermaLink="true">#/2016/03/02/about-blog.html</guid>
             
