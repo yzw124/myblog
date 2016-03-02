@@ -2,7 +2,7 @@
 title:  "我想和这个世界谈谈"
 subtitle: "记录工作生活的点点滴滴"
 author: "Keven Ye"
-avatar: "img/authors/me.jpg"
+avatar: "img/authors/me1.jpg"
 image: "img/mao1.jpeg"
 date:   2016-03-02 15:12:12
 ---
