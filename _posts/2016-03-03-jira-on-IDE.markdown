@@ -28,8 +28,8 @@ JIRA是Atlassian公司出品的项目与事务跟踪工具，被广泛应用于�
 
 
 ### Eclipse
-Eclipse中，jira是作为插件发布的。具体操作步骤参见  
-<iframe src="http://jingyan.baidu.com/article/acf728fd43ca89f8e510a3e6.html" width="100%" height="500"> 
+Eclipse中，jira是作为插件发布的。由于网上已经很多文章介绍了，所以就不在这赘述了，具体操作步骤参见: 
+http://jingyan.baidu.com/article/acf728fd43ca89f8e510a3e6.html  
 
   
 
