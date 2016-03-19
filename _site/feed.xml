@@ -6,15 +6,15 @@
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Sun, 20 Mar 2016 00:34:13 +0800</pubDate>
-        <lastBuildDate>Sun, 20 Mar 2016 00:34:13 +0800</lastBuildDate>
+        <pubDate>Sun, 20 Mar 2016 00:42:23 +0800</pubDate>
+        <lastBuildDate>Sun, 20 Mar 2016 00:42:23 +0800</lastBuildDate>
         <generator>Jekyll v3.0.3</generator>
         
         <item>
             <title>初识React Native</title>
             <description>&lt;h3 id=&quot;section&quot;&gt;基本架构&lt;/h3&gt;
 &lt;p&gt;React Native（以下简称RN)是facebook在2015年推出的开源javascript框架，旨在通过js开发原生应用。RN主要解决的问题是native应用开发周期长、热更新困难（尤其是ios），而web应用用户体验不佳，人机交互不好、执行效率低下等问题。RN设计的理念就是既保留native的用户交互体验，又保留web的开发效率。让我们先来看一下，RN的基本架构
-&lt;img src=&quot;https://raw.githubusercontent.com/yzw124/blog_res/master/react_architecture.png&quot; width=&quot;80%&quot; /&gt;  &lt;br /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/react_architecture.png&quot; width=&quot;80%&quot; /&gt;  &lt;br /&gt;
 从图中我们可以清楚的看到RN清楚的分为三层：&lt;br /&gt;
 1. js:就是我们实际编码的地方。
 2. virtual dom:这是一个轻量级的dom，在不同平台上有着不同的实现，可以认为是一个抽象层。
@@ -38,8 +38,8 @@
 
 &lt;h3 id=&quot;section-2&quot;&gt;福利时间&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/yzw124/blog_res/master/mao2.png&quot; width=&quot;80%&quot; /&gt; 
-&lt;img src=&quot;https://raw.githubusercontent.com/yzw124/blog_res/master/mao3.png&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mao2.png&quot; width=&quot;80%&quot; /&gt; 
+&lt;img src=&quot;https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mao3.png&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
 
 </description>
             <pubDate>Sat, 19 Mar 2016 19:11:11 +0800</pubDate>
