@@ -3,7 +3,7 @@ title:  "初识React Native"
 subtitle: "React Native 学习的点点滴滴"
 author: "Keven Ye"
 avatar: "img/authors/me1.jpg"
-image: "img/react_native_logo.png"
+image: "img/react_native_logo.jpg"
 date:   2016-03-19 11:11:11
 ---
 
@@ -33,8 +33,8 @@ React Native（以下简称RN)是facebook在2015年推出的开源javascript框�
 
 ### 福利时间
 
-<img src="link" src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mao2.png" width="80%"> 
-<img src="link" src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mao3.png" width="80%"> 
+<img src="link" src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mao2.jpg" width="80%"> 
+<img src="link" src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mao3.jpg" width="80%"> 
 
 
   
