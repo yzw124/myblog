@@ -7,12 +7,14 @@ image: "img/react_native_logo.jpg"
 date:   2016-03-19 11:11:11
 ---
 
+
+
 ###基本架构
 React Native（以下简称RN)是facebook在2015年推出的开源javascript框架，旨在通过js开发原生应用。RN主要解决的问题是native应用开发周期长、热更新困难（尤其是ios），而web应用用户体验不佳，人机交互不好、执行效率低下等问题。RN设计的理念就是既保留native的用户交互体验，又保留web的开发效率。让我们先来看一下，RN的基本架构
 <img src="link" src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/react_architecture.png" width="80%">    
 从图中我们可以清楚的看到RN清楚的分为三层：  
 1. js:就是我们实际编码的地方。  
-2. virtual dom:这是一个轻量级的dom，在不同平台上有着不同的实现，可以认为是一个抽象层。  
+2. virtual dom:这是一个轻量级的dom，在不同平台上有着不同的实现，可以认为是一个抽象层。
 3. web／android／ios:目前3个平台的基本控件均已实现。 
 
 ###与webview的区别
