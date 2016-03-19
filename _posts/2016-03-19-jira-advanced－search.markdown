@@ -3,7 +3,7 @@ title:  "初识React Native"
 subtitle: "React Native 学习的点点滴滴"
 author: "Keven Ye"
 avatar: "img/authors/me1.jpg"
-image: "img/react_native_logp.png"
+image: "img/react_native_logo.png"
 date:   2016-03-19 11:11:11
 ---
 
