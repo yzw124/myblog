@@ -46,13 +46,15 @@ date:   2017-06-30 11:11:11
 
 
 看视频：[矫正期间如何刷牙2222222]
-{% youku XMTY3MDczMDMxMg== 400 400 %}
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](http://player.youku.com/embed/XMTY3MDczMDMxMg== "Everything Is AWESOME"
+
+  youku XMTY3MDczMDMxMg== 400 400 %}
 
 
 如果觉得使用手动牙刷刷牙比较费力，可以考虑电动牙刷。
 
 看视频：
-{% youku XMjg4NTg3ODI0MA== 400 400 %}
+  youku XMjg4NTg3ODI0MA== 400 400 %}
 
 
 
@@ -80,13 +82,13 @@ date:   2017-06-30 11:11:11
 
 戳视频：[矫正牙齿期间如何使用牙线](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTY3MDcyMjQ1Mg%3D%3D.html)；
 
-{% youku XMTY3MDcyMjQ1Mg== 400 400 %}
+  youku XMTY3MDcyMjQ1Mg== 400 400 %}
 
 
 [矫正期间如何使用间隙刷（牙间刷）]
 
 
-{% youku XMTY3MDczNjA4MA== 400 400 %}
+  youku XMTY3MDczNjA4MA== 400 400 %}
 
 
 #### 3.冲牙器：
@@ -97,7 +99,7 @@ date:   2017-06-30 11:11:11
 
 视频：矫正牙齿期间如何使用冲牙器
 
-{% youku XMTY2MjgwODMzNg== 400 400 %}
+  youku XMTY2MjgwODMzNg== 400 400 %}
 
 
 一般做到以上几点，口腔卫生的维护就算合格啦。
