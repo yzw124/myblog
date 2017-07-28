@@ -46,14 +46,14 @@ date:   2017-06-30 11:11:11
 
 
 看视频：[矫正期间如何刷牙2222222]
-{% youku XMTY3MDczMDMxMg== 498 510 %}
+{% youku XMTY3MDczMDMxMg== 400 400 %}
 
 
 如果觉得使用手动牙刷刷牙比较费力，可以考虑电动牙刷。
 
 看视频：
+{% youku XMjg4NTg3ODI0MA== 400 400 %}
 
-<embed src='http://player.youku.com/player.php/sid/XMjg4NTg3ODI0MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
 
 
 
@@ -80,11 +80,14 @@ date:   2017-06-30 11:11:11
 
 戳视频：[矫正牙齿期间如何使用牙线](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTY3MDcyMjQ1Mg%3D%3D.html)；
 
-<embed src='http://player.youku.com/player.php/sid/XMTY3MDcyMjQ1Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+{% youku XMTY3MDcyMjQ1Mg== 400 400 %}
+
 
 [矫正期间如何使用间隙刷（牙间刷）]
 
-<embed src='http://player.youku.com/player.php/sid/XMTY3MDczNjA4MA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+
+{% youku XMTY3MDczNjA4MA== 400 400 %}
+
 
 #### 3.冲牙器：
 
@@ -94,7 +97,8 @@ date:   2017-06-30 11:11:11
 
 视频：矫正牙齿期间如何使用冲牙器
 
-<embed src='http://player.youku.com/player.php/sid/XMTY2MjgwODMzNg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
+{% youku XMTY2MjgwODMzNg== 400 400 %}
+
 
 一般做到以上几点，口腔卫生的维护就算合格啦。
 
