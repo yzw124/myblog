@@ -47,7 +47,8 @@ date:   2017-06-30 11:11:11
 
 看视频：[矫正期间如何刷牙2222222]
 
-[![Everything Is AWESOME](https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/WechatIMG111.jpeg)](http://player.youku.com/embed/XMTY3MDczMDMxMg== "Everything Is AWESOME")
+<video src="http://player.youku.com/embed/XMTY3MDczMDMxMg==" width="320" height="200" controls preload></video>
+
 
   youku XMTY3MDczMDMxMg== 400 400 %}
 
