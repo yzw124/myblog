@@ -1,7 +1,7 @@
 # Site settings
-title: 一个有态度的程序员
-description: 不会摄影的程序员不是一个好厨师
-keywords: Android, 编程, 摄影
-author: Wferr
+title: 一个有态度的牙医
+description: Your Beauty,My Duty.
+keywords: orthodontist,dentist,矫正,牙套
+author: 正畸孙医生
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
