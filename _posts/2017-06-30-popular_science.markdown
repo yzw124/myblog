@@ -45,7 +45,7 @@ date:   2017-06-30 11:11:11
 <img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/WechatIMG111.jpeg"  width = "100%" />
 
 
-看视频：[矫正期间如何刷牙]2222222
+看视频：[矫正期间如何刷牙2222222]
 {% youku XMTY3MDczMDMxMg== 498 510 %}
 
 <iframe height=498 width=510 src='http://player.youku.com/embed/XMTY3MDczMDMxMg==' frameborder=0 'allowfullscreen'></iframe>
