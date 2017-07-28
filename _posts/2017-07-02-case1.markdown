@@ -2,18 +2,18 @@
 title:  "病例分享之给我打广告的女孩"
 subtitle: ""
 author: "正畸孙医生"
-avatar: "../img/logo.jpg"
-image: "../img/case1.jpg"
+avatar: "https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/logo.jpg"
+image: "https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/case1.jpg"
 date:   2017-07-02 11:11:11
 ---
 
 ### 喏~就是这位菇凉~ 这是第一天带牙套，留个纪念！
 
-<img src="../img/WechatIMG5.jpeg" style="vertical-align:middle;"  width = "100%" />
+<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/WechatIMG5.jpeg" style="vertical-align:middle;"  width = "100%" />
 
 ### 矫正结束，还给我打了条广告~
 
-<img src="../img/mobile001.jpg"  width = "100%"  />
+<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mobile001.jpg"  width = "100%"  />
 
-<img src="../img/mobile.jpg"  width = "100%" />
-<img src="../img/WechatIMG2.jpeg"  width = "100%" />
+<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mobile.jpg"  width = "100%" />
+<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/WechatIMG2.jpeg"  width = "100%" />
