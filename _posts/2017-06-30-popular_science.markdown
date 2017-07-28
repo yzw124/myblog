@@ -48,7 +48,6 @@ date:   2017-06-30 11:11:11
 看视频：[矫正期间如何刷牙2222222]
 {% youku XMTY3MDczMDMxMg== 498 510 %}
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMTY3MDczMDMxMg==' frameborder=0 'allowfullscreen'></iframe>
 
 如果觉得使用手动牙刷刷牙比较费力，可以考虑电动牙刷。
 
