@@ -2,8 +2,8 @@
 title:  "矫正牙齿期间如何做好口腔卫生的维护"
 subtitle: ""
 author: "正畸孙医生"
-avatar: "https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/logo.jpg"
-image: "https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/homecare.jpg"
+avatar: "http://oss1xozrc.bkt.clouddn.com/logo.jpg"
+image: "http://oss1xozrc.bkt.clouddn.com/homecare.jpg"
 date:   2017-06-30 11:11:11
 ---
 
@@ -11,23 +11,23 @@ date:   2017-06-30 11:11:11
 
 那么矫正牙齿期间最重要的就是做好口腔卫生了！每次复诊我都希望看到大家干净的牙齿，清洁的牙套和健康的牙龈。
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/0f5c4349b8dc84e23e8d50aff5980545.jpg" width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/0f5c4349b8dc84e23e8d50aff5980545.jpg" width = "100%" />
 
 如果口腔卫生没有维护好，那么牙龈就会发炎，出现红肿出血，尤其是牙龈乳头的部位。
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/3467ce8b28c1bfbb95e7d22593e76ac2.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/3467ce8b28c1bfbb95e7d22593e76ac2.jpg" style="vertical-align:middle;"  width = "100%" />
 
 严重的还有这样！
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/7c78ce6fafdd281f0127aaf95db644e3.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/7c78ce6fafdd281f0127aaf95db644e3.jpg" style="vertical-align:middle;"  width = "100%" />
 
 除了牙龈红肿出血，有的朋友会出现牙龈萎缩，形成黑三角！
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/548d89f90e9501c7ebc9e00c6aba625d.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/548d89f90e9501c7ebc9e00c6aba625d.jpg" style="vertical-align:middle;"  width = "100%" />
 
 导致牙龈炎症的罪魁祸首是菌斑！所以预防和治疗牙龈炎最有效的方法就是清除这些菌斑。👇一张图看懂什么是菌斑，那些白白的脏东西就是。
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/67dd321cfd955c17768e030ae0e769bd.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/67dd321cfd955c17768e030ae0e769bd.jpg" style="vertical-align:middle;"  width = "100%" />
 
 
 
@@ -35,70 +35,78 @@ date:   2017-06-30 11:11:11
 
 
 #### 1.刷牙：
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/9e2d0c9d83489145e418ad8e1c4d0f9d.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/9e2d0c9d83489145e418ad8e1c4d0f9d.jpg" style="vertical-align:middle;"  width = "100%" />
 
 
 最有效的菌斑控制方法，正常情况下可以清除 40%～60%的菌斑。每天应在三餐饭后和早晨起来及临睡前刷牙。若你说道理我都懂，可臣妾实在做不到啊！那也请爱妃每天至少刷2 次，每次不少于3min。**刷牙方法和认真程度比牙刷的设计更重要**。推荐采用改良的 Bass 刷牙法进行清洁。将刷毛与牙面成 45°， 置于牙龈边缘及牙间隙区，轻度加压；将牙刷的刷毛伸入托槽和弓丝之间重点清洁；
 
 如果普通牙刷不能有效的清洁，那么可以考虑正畸牙刷。正畸牙刷刷头较小，刷毛较软。形状一般有两种。一种牙刷中间的刷毛较短，两边的较长，从顶端看呈U字形。刷牙时将中间短刷毛的区域对着托槽，长刷毛的地方就位于牙齿上，这样将托槽周围和牙齿刷干净。另一种相反，中间的刷毛较长，两边的较短，这样长刷毛的地方可以集中刷托槽上面或下面的部位。两种形状的牙刷可单独使用也可以联合使用。
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/WechatIMG111.jpeg"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG111.jpeg"  width = "100%" />
 
 
 看视频：[矫正期间如何刷牙]
 
-[![矫正期间如何刷牙](http://oss1xozrc.bkt.clouddn.com/jiaozhengshuaya.png)](http://player.youku.com/embed/XMTY3MDczMDMxMg== "矫正期间如何刷牙")
+
+<a href="http://player.youku.com/embed/XMTY3MDczMDMxMg==">
+<img src="http://oss1xozrc.bkt.clouddn.com/jiaozhengshuaya.png"   style="vertical-align:middle;"  width = "100%" />
+</a>
 
 
 如果觉得使用手动牙刷刷牙比较费力，可以考虑电动牙刷。
 
 看视频：
 
-[![电动牙刷](http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.10.19.png)](http://player.youku.com/embed/XMjg4NTg3ODI0MA== "矫正期间如何刷牙")
-
+<a href="http://player.youku.com/embed/XMjg4NTg3ODI0MA==">
+<img src="http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.10.19.png"   style="vertical-align:middle;"  width = "100%" />
+</a>
 
 
 
 #### 2.牙线和牙间刷：
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/3c7c64f26dd2703cabcf71f00d22da1b.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/3c7c64f26dd2703cabcf71f00d22da1b.jpg" style="vertical-align:middle;"  width = "100%" />
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/44f4c3205a25b4e4c533bc476dd1ebed.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/44f4c3205a25b4e4c533bc476dd1ebed.jpg" style="vertical-align:middle;"  width = "100%" />
 
 用来清洁牙齿邻接面的菌斑，也可以清洁牙根与牙龈间的缝隙。这些部位都是菌斑容易堆积的地方，刷牙很难刷干净。所以**刷牙后**要使用牙线和牙间刷帮助清洁牙刷没刷到的邻接面的地方。
 
 矫正牙齿的朋友可以用牙线穿引器将牙线穿到钢丝下，这样就可以使用牙线了。
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/6357318740881054681996547.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/6357318740881054681996547.JPG" style="vertical-align:middle;"  width = "100%" />
 
 那么还有一种集牙线和穿引线于一身的正畸一体线。前面部分是引线便于穿入,后面是牙线。牙线部分有粗有细, 粗的用于清洁牙箍和牙缝较宽的部分,细的用于清洁牙缝较紧的部分, 清洁力度好, 一根全搞定,方便省事, 缺点是成本较高.
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/6357316130892187507421998.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/6357316130892187507421998.JPG" style="vertical-align:middle;"  width = "100%" />
 
 牙间刷可以将托槽上下左右清洁干净，同时对有牙龈萎缩的部位也用牙间刷进行清洁。
 
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/WechatIMG12.jpeg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG12.jpeg" style="vertical-align:middle;"  width = "100%" />
 
 
 戳视频：[矫正牙齿期间如何使用牙线](https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTY3MDcyMjQ1Mg%3D%3D.html)；
 
-[![矫正牙齿期间如何使用牙线](http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.10.50.png)](http://player.youku.com/embed/XMTY3MDcyMjQ1Mg== "矫正牙齿期间如何使用牙线")
+[矫正牙齿期间如何使用牙线]
+<a href="http://player.youku.com/embed/XMTY3MDcyMjQ1Mg==">
+<img src="http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.10.50.png"   style="vertical-align:middle;"  width = "100%" />
+</a>
 
 
 [矫正期间如何使用间隙刷（牙间刷）]
-[![矫正期间如何使用间隙刷](http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.10.39.png)](http://player.youku.com/embed/XMTY3MDczNjA4MA== "矫正牙齿期间如何使用牙线")
-
+<a href="http://player.youku.com/embed/XMTY3MDczNjA4MA==">
+<img src="http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.10.39.png"   style="vertical-align:middle;"  width = "100%" />
+</a>
 
 
 #### 3.冲牙器：
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/f1dc28be877d561cb0edbdded3f61ba0.jpg" style="vertical-align:middle;"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/f1dc28be877d561cb0edbdded3f61ba0.jpg"   style="vertical-align:middle;"  width = "100%" />
 
 牙线觉得不好操作的话，可以用冲牙器来辅助清洁牙齿。
 
 视频：矫正牙齿期间如何使用冲牙器
 
-[![矫正牙齿期间如何使用冲牙器](http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.21.38.png)](http://player.youku.com/embed/XMTY2MjgwODMzNg== "矫正牙齿期间如何使用冲牙器")
+<a href="http://player.youku.com/embed/XMTY2MjgwODMzNg=="><img src="http://oss1xozrc.bkt.clouddn.com/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-07-29%20%E4%B8%8B%E5%8D%881.21.38.png"   style="vertical-align:middle;"  width = "100%" />
 
 
 一般做到以上几点，口腔卫生的维护就算合格啦。

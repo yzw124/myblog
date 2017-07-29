@@ -2,18 +2,18 @@
 title:  "病例分享之被上帝亲吻过的女孩"
 subtitle: ""
 author: "正畸孙医生"
-avatar: "https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/logo.jpg"
-image: "https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/case3.jpg"
+avatar: "http://oss1xozrc.bkt.clouddn.com/logo.jpg"
+image: "http://oss1xozrc.bkt.clouddn.com/case3.jpg"
 date:   2017-07-25 11:11:11
 ---
 
 ### 这是个被上帝亲吻过的女孩。先天缺失一颗牙齿，同时伴有唇裂并牙槽突裂。唇裂小时候已经修复过，但是牙槽突裂一直没有修复。来就诊时牙齿很乱，父母要求只将牙齿排齐。经过一年多的时间，牙齿排齐，咬合改善。矫正结束后，给女孩做了带有假牙的特别的保持器，她终于可以露齿开心笑啦！
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mobile.0042.jpeg"  width = "100%"  />
+<img src="http://oss1xozrc.bkt.clouddn.com/mobile.0042.jpeg"  width = "100%"  />
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mobile1.0043.jpeg"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/mobile1.0043.jpeg"  width = "100%" />
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/mobile4.0044.jpeg"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/mobile4.0044.jpeg"  width = "100%" />
 
 ### 在这提醒下拥有唇腭裂孩子的父母们：
 ##### 对存在鼻畸形的不完全性唇裂患儿，出生后2月内可通过佩戴鼻模矫治器的方式进行矫治直至唇裂修复术，术后继续佩戴可达1周岁后；
@@ -26,11 +26,11 @@ date:   2017-07-25 11:11:11
 
 ##### 对唇裂手术的年龄国内外同行的观点都比较接近, 患儿全身情况良好的前提下, 单侧唇裂主张 3 个月以上, 双侧唇裂在 6 个月即可进行唇裂整复术。
 
-##### <img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/23241.jpg"  width = "100%" />
+##### <img src="http://oss1xozrc.bkt.clouddn.com/23241.jpg"  width = "100%" />
 
 ##### 腭裂整复术建议尽可能在9~12月龄完成。
 
-##### <img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/cleft-palate-31-728.jpeg"  width = "100%" />
+##### <img src="http://oss1xozrc.bkt.clouddn.com/cleft-palate-31-728.jpg"  width = "100%" />
 
 ##### 就咽成形术的手术年龄, 至今国内外仍存在着争议, 国外有不少学者建议 3～ 5 岁即可行咽成形术,国内众多学者仍建议 8 岁以后进行较为安全。主流意见主张在有条件的单位, 咽成形术的年龄可以适当提早。
 
@@ -40,7 +40,7 @@ date:   2017-07-25 11:11:11
 
 ##### 心理评估的时机，强调尽早介入，并贯穿整个序列治疗的全过程。
 
-##### <img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/143933.jpeg"  width = "100%" />
+##### <img src="http://oss1xozrc.bkt.clouddn.com/143933.jpg"  width = "100%" />
 
 ##### 对于产前诊断发现孩子患有唇腭裂的孕妇及其家庭成员，主要评估其心理是否出现应激反应以及确定是否需要进行针对性的心理咨询。
 
@@ -52,7 +52,7 @@ date:   2017-07-25 11:11:11
 
 ##### 成年期（18岁以上）唇腭裂患者的心理发育基本结束，心理评估应更多关注其情绪状况、行为与人格特征以及社会支持等方面内容。（以上参考“唇腭裂序列治疗与关键技术的应用”）
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/6c5f2624cc4a9813ba909b50ec4571c0.jpg"  width = "100%"  />
+<img src="http://oss1xozrc.bkt.clouddn.com/6c5f2624cc4a9813ba909b50ec4571c0.jpg"  width = "100%"  />
 
 
 
