@@ -2,7 +2,7 @@
 title:  "病例分享之配合NO.1"
 subtitle: ""
 author: "正畸孙医生"
-avatar: "http://oss1xozrc.bkt.clouddn.com/logo.jpg"
+avatar: "http://oss1xozrc.bkt.clouddn.com/logo1.jpg"
 image: "http://oss1xozrc.bkt.clouddn.com/case2.jpg"
 date:   2017-07-03 11:11:11
 ---
