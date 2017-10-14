@@ -1,7 +1,10 @@
 # Site settings
-title: 一个有态度的牙医
+title: 一个有态度的牙
 description: Your Beauty,My Duty.
 keywords: orthodontist,dentist,矫正,牙套
-author: 正畸孙医生
+author: suntan
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
+paginate: 3
+google_analytics: 'UA-XXXXXXX-X'
