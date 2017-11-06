@@ -3,7 +3,7 @@ title:  "开启隐适美之旅所需知道的那些事"
 subtitle: ""
 author: "正畸孙医生"
 avatar: "http://oss1xozrc.bkt.clouddn.com/logo1.jpg"
-image: "http://oss1xozrc.bkt.clouddn.com/case3.jpg"
+image: "http://oss1xozrc.bkt.clouddn.com/Cr8dPXYXEAAXKhC.jpg"
 date:   2017-11-06 08:11:11
 ---
 <img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG15.png"  width = "100%"  />
@@ -14,7 +14,7 @@ date:   2017-11-06 08:11:11
 
 <img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG18.png"  width = "100%" />
 
-<img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG19.png"  width = "100%" />
+<img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG19.jpeg"  width = "100%" />
 
 <img src="http://oss1xozrc.bkt.clouddn.com/WechatIMG20.png"  width = "100%" />
 
