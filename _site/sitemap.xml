@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/2017/12/10/%25E7%259F%25AB%25E6%25AD%25A3%25E6%259C%259F%25E9%2597%25B4%25E6%25B3%25A8%25E6%2584%258F%25E4%25BA%258B%25E9%25A1%25B9.html</loc>
+<lastmod>2017-12-10T14:11:11+08:00</lastmod>
+</url>
+<url>
 <loc>/2017/11/07/case4.html</loc>
 <lastmod>2017-11-07T14:11:11+08:00</lastmod>
 </url>
@@ -26,8 +30,5 @@
 </url>
 <url>
 <loc>/</loc>
-</url>
-<url>
-<loc>/page2/</loc>
 </url>
 </urlset>
