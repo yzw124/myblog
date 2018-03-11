@@ -1,7 +1,7 @@
 ---
 title:  "病例分享之配合NO.1"
 subtitle: ""
-author: "正畸孙医生"
+author: "正畸医生孙倓"
 avatar: "http://oss1xozrc.bkt.clouddn.com/logo1.jpg"
 image: "http://oss1xozrc.bkt.clouddn.com/case2.jpg"
 date:   2017-07-03 11:11:11
@@ -9,7 +9,7 @@ date:   2017-07-03 11:11:11
 
 ### 这是个我很喜欢的小女孩。在整个矫治过程中都特别配合。严格按照我的要求挂橡皮筋，按时复诊。由于妈妈不希望拔除女儿下排的2颗牙齿，所以我们选择了plan B。在我和小女孩共同的努力下，最后的效果也是不错。
 
-<img src="http://oss1xozrc.bkt.clouddn.com/mobile.001.jpg"  width = "100%"  />
+<img src="http://oss1xozrc.bkt.clouddn.com/mobile.001.jpeg"  width = "100%"  />
 
 <img src="http://oss1xozrc.bkt.clouddn.com/mobile.002.jpg"  width = "100%" />
 

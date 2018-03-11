@@ -1,7 +1,7 @@
 ---
 title:  "病例分享之被上帝亲吻过的女孩"
 subtitle: ""
-author: "正畸孙医生"
+author: "正畸医生孙倓"
 avatar: "http://oss1xozrc.bkt.clouddn.com/logo1.jpg"
 image: "http://oss1xozrc.bkt.clouddn.com/case3.jpg"
 date:   2017-07-25 11:11:11
@@ -20,7 +20,7 @@ date:   2017-07-25 11:11:11
 ### 在这提醒下拥有唇腭裂孩子的父母们：
 ##### 对存在鼻畸形的不完全性唇裂患儿，出生后2月内可通过佩戴鼻模矫治器的方式进行矫治直至唇裂修复术，术后继续佩戴可达1周岁后；
 
-##### <img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/image.jpeg"  width = "100%" /> 
+##### <img src="http://oss1xozrc.bkt.clouddn.com/image.jpeg"  width = "100%" /> 
 
 ##### 对完全性唇腭裂患儿，出生后1周至1月龄期间，需为患儿配戴合适类型的鼻模矫治器，有助于减轻患儿唇、鼻及牙槽突的畸形；
 
@@ -54,7 +54,7 @@ date:   2017-07-25 11:11:11
 
 ##### 成年期（18岁以上）唇腭裂患者的心理发育基本结束，心理评估应更多关注其情绪状况、行为与人格特征以及社会支持等方面内容。（以上参考“唇腭裂序列治疗与关键技术的应用”）
 
-<img src="https://raw.githubusercontent.com/yzw124/yzw124blog/gh-pages/img/6c5f2624cc4a9813ba909b50ec4571c0.jpg"  width = "100%"  />
+<img src="http://oss1xozrc.bkt.clouddn.com/6c5f2624cc4a9813ba909b50ec4571c0.jpg"  width = "100%"  />
 
 
 

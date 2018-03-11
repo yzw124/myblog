@@ -1,7 +1,7 @@
 ---
 title:  "矫正牙齿期间如何做好口腔卫生的维护"
 subtitle: ""
-author: "正畸孙医生"
+author: "正畸医生孙倓"
 avatar: "http://oss1xozrc.bkt.clouddn.com/logo1.jpg"
 image: "http://oss1xozrc.bkt.clouddn.com/homecare.jpg"
 date:   2017-06-30 11:11:11
